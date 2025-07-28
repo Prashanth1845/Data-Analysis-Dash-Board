@@ -9,6 +9,7 @@ Thrilled to share a recent data analytics project in my internship at infotact s
 
 ---
 
+
 📊 **Objective**
 To transform raw Superstore retail data into actionable business insights
 using Excel for cleaning and analysis, and Power BI for dynamic dashboard creation.
@@ -41,6 +42,11 @@ using Excel for cleaning and analysis, and Power BI for dynamic dashboard creati
 ▪️ Sales declined steadily — peaked at \~\$47K in March 2023
 ▪️ Dropped below \$35K by Feb 2024
 🔍 *Calls for further analysis into seasonality, supply issues, or customer retention*
+
+
+
+
+<img width="1161" height="643" alt="image" src="https://github.com/user-attachments/assets/8e89a523-b038-4f86-8d99-e9cbb1ae047d" />
 
 📍 **Sales by Region**
 ▪️ Central & East slightly lead
