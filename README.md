@@ -87,4 +87,8 @@ This was a milestone in my learning journey!
 \#BusinessIntelligence #DataCleaning #InternshipExperience #AnalyticsCareer
 
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e4b5185-4fa6-4f44-837c-329d6e9c93c9" />
+
+
+
 ---
